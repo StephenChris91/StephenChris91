@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Stephen Chris
-- 👀 I’m interested in Fullstack Web Developer
+- 👀 I am a in Fullstack Web Developer
 - 🌱 I’m currently learning Nextjs & Nodejs
 - 💞️ I’m looking to collaborate on Frontend Web Projects
 - 📫 How to reach me ...
