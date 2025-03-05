@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stephen Chris
 - 👀 I am a Software Developer
-- 💞️ I’m looking to collaborate on Frontend Web Projects
+- 💞️ I’m looking to collaborate on Software Projects
 - 📫 How to reach me ...
 
 <!---
